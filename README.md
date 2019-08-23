@@ -12,5 +12,5 @@
 6. 待定点物方空间坐标近似值解算
 （注）li系数是外方位元素、内方位元素、坐标轴不正交系数、坐标轴比例不一系数的函数
 
-
+![公式](https://github.com/Tatjanaya/DLT/raw/master/ss/g1.jpg)
 
